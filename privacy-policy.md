@@ -1,11 +1,11 @@
 # Privacy Policy
 
-**Project:** DeFi AI Portfolio Strategist (Sahara AI Agent)  
+**Project:** Crypto Master Guide Universal (Sahara AI Agent)  
 **Controller:** Bit_Train
 **Contact:** [keni_grinev@mail.ru]
 **Effective Date:** 2025-08-18 • **Last Updated:** 2025-08-18
 
-This Privacy Policy explains how we process information when you use **DeFi AI Portfolio Strategist** (the “Service”). We aim to keep data collection minimal and transparent. If you disagree with this Policy, please do not use the Service.
+This Privacy Policy explains how we process information when you use **Crypto Master Guide Universal** (the “Service”). We aim to keep data collection minimal and transparent. If you disagree with this Policy, please do not use the Service.
 
 ---
 
