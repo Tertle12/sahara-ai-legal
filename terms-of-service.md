@@ -1,9 +1,9 @@
 # Terms of Service
-**Project:** DeFi AI Portfolio Strategist (Sahara AI Agent)  
+**Project:** Crypto Master Guide Universal (Sahara AI Agent)  
 **Owner:** Bit_Train  
 **Effective Date:** 2025-08-18 • **Last Updated:** 2025-08-18
 
-These Terms govern your access to and use of the **DeFi AI Portfolio Strategist** (the “Service”). By using the Service, you agree to these Terms.
+These Terms govern your access to and use of the **Crypto Master Guide Universal** (the “Service”). By using the Service, you agree to these Terms.
 
 ## 1) Summary (Non-Binding)
 - We provide an AI-powered assistant for DeFi/crypto education and strategy support.  
